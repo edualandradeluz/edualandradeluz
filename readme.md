@@ -1,4 +1,4 @@
-# Olá, seja bem vindo(a) a minha conexão :sunglasses:
+# Olá, seja bem vindo(a) a minha conexão :wave:
 <br>
 Me chamo Eduardo Luz sou graduado em Administração e Pós graduado em Engenharia de Produção.
 <br>
@@ -20,14 +20,10 @@ Estou em processo de transição de carreira no curso do DevClub aprendendo:
 <br>
 ![Eduardo Luz stats](https://github-readme-stats.vercel.app/api?username=edualandradeluz&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edualandradeluz)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 Mais informações, segue minhas conexões:
 <p>
-  <a href="www.linkedin.com/in/eduardo-andrade-luz">
-    <img align="left" alt="Linkedin" width="22px" src="
-  </a>
-</p>
+  <a href="www.linkedin.com/in/eduardo-andrade-luz/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </p>
 
 
