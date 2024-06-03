@@ -17,7 +17,7 @@ Estou em processo de transição de carreira no curso do DevClub aprendendo:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-CSS" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="logo-JAVA" />
 <br>
-![Eduardo Luz stats](https://github-readme-stats.vercel.app/api?username=edualandradeluz&show_icons=true&theme=tokyonight)
+![Eduardo Luz stats](https://github-readme-stats.vercel.app/api?username=edualandradeluz&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edualandradeluz)](https://github.com/anuraghazra/github-readme-stats)
 
 Mais informações você me encontra:
