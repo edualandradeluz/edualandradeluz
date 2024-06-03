@@ -22,7 +22,7 @@ Estou em processo de transição de carreira no curso do DevClub aprendendo:
 
 Mais informações, segue minhas conexões:
 <p>
-  <a href="www.linkedin.com/in/eduardo-andrade-luz" />
+  <a href="https://www.linkedin.com/in/eduardo-andrade-luz/" />
   <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </p>
 
