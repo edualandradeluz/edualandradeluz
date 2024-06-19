@@ -5,6 +5,7 @@ Me chamo Eduardo Luz, Graduado em Administração e Pós graduado em Engenharia 
 Possuo ampla experiência com sistemas:
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="logo-SAP" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="logo-Oracle" />
+<img src="https://ava.sienge.com.br/moodle/pluginfile.php/1/core_admin/logocompact/0x70/1569593948/cabecalho.png" alt="logo-Sienge" />
 
 Sólido com ferramentas de análises:
 <br>
