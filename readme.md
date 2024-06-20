@@ -29,7 +29,7 @@ Estou em processo de transição de carreira no curso do DevClub aprendendo:
 Mais informações você me encontra:
 <br>
   <a href="https://www.linkedin.com/in/eduardo-andrade-luz/" />
-  <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </p>
 
 
