@@ -35,6 +35,7 @@ Mais informações você me encontra nos acessos a seguir:
 <br>
   <a href="https://www.linkedin.com/in/eduardo-andrade-luz/" />
   <img align="left" alt="Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<br>
  </p>
 
 
