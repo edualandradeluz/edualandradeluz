@@ -1,6 +1,6 @@
 # Olá, seja bem vindo(a) a minha conexão :wave:
 <br>
-Me chamo Eduardo Luz, Graduado em Administração e Pós graduado em Engenharia de Produção. Entrei neste ramo da programação para me desenvolver na minha transição de carreira.
+Me chamo Eduardo Luz, sou Graduado em Administração e Pós graduado em Engenharia de Produção. Entrei neste ramo da programação e análise de dados para me desenvolver na minha transição de carreira.
 <br>
 <br>
 Experiência e vivência nos sistemas:
